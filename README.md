@@ -9,4 +9,4 @@ Next time you dont need to remember the encrypted password, you just use our app
 
 Ofcourse this app will be safe because the data are connected anywhere.
 
-YOU CAN DOWNLOAD THE APK HERE FROM THIS REPOSITORY. LOOK!
+YOU CAN DOWNLOAD THE APK HERE FROM THIS REPOSITORY ON THE FILE "CREATE STRONG PASWORD".
