@@ -8,3 +8,5 @@ We generate encrypted password for you! So that no one can guess the encrypted o
 Next time you dont need to remember the encrypted password, you just use our app, put your original pass and code to see the encrypted again!
 
 Ofcourse this app will be safe because the data are connected anywhere.
+
+YOU CAN DOWNLOAD THE APK HERE FROM THIS REPOSITORY. LOOK!
